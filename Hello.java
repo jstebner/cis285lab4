@@ -4,6 +4,6 @@ public class Hello {
     }
 
     public void method1() {
-        System.out.pritnln("this a new method :)")
+        System.out.println("this a new method :)")
     }
 }
